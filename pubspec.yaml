@@ -1,5 +1,6 @@
+
 name: null2
-description: NULL² SNS platform demo v15
+description: NULL² SNS platform demo v16 - 75% completed version
 version: 1.0.0
 environment:
   sdk: ">=3.0.0 <4.0.0"
